@@ -550,3 +550,10 @@ header ul li {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+#gift-banner{
+height: 700px;
+width: 1800px;
+top: 160px;
+
+}
